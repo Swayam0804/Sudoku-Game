@@ -19,7 +19,7 @@ A sudoku solver with interactive GUI (Graphical User Interface) and hint system.
 ## How to run 
 1. Clone the repository to your local machine :
    ```sh
-   git clone https://github.com/YOUR_USERNAME/Sudoku-Game.git
+   git clone https://github.com/Swayam0804/Sudoku-Game.git
 
 2. Navigate to the project directory :
    ```sh
